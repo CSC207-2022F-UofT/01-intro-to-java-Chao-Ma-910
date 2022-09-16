@@ -41,11 +41,11 @@ public class Basics {
          *    (Relevant reading: 1.1.3. Printing things)
          */
         System.out.println(7 + 5);
-        System.out.println("Hello World!");
+
         /* TODO (Task 1): Write a line of code below that prints the string
          *                Hello World!
-
-
+         */
+        System.out.println("Hello World!");
 
         /* 4. In Python, we could declare variables using a simple assignment
          *    statement. For example:
